@@ -1,0 +1,7 @@
+body {
+  background: #000 url("./images/bg.jpg") no-repeat center / cover;
+}
+
+a {
+  text-decoration: none !important;
+}

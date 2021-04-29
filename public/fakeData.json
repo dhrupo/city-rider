@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Bike",
+    "image": "/images/bike.png",
+    "price": 67,
+    "available": 5,
+    "seat": 1
+  },
+  {
+    "id": "2",
+    "name": "Car",
+    "image": "/images/car.png",
+    "price": 67,
+    "available": 5,
+    "seat": 4
+  },
+  {
+    "id": "3",
+    "name": "Bus",
+    "image": "/images/bus.png",
+    "price": 67,
+    "available": 5,
+    "seat": 30
+  },
+  {
+    "id": "4",
+    "name": "Train",
+    "image": "/images/train.png",
+    "price": 67,
+    "available": 5,
+    "seat": 60
+  }
+]

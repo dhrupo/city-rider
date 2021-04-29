@@ -1,0 +1,11 @@
+.form-register {
+  background-color: white;
+  padding: 20px 40px;
+  box-shadow: 5px 5px 10px 5px #000000;
+  border-radius: 10px;
+  margin: 20px auto 0;
+}
+
+.form-register button {
+  width: 100%;
+}

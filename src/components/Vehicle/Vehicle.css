@@ -1,0 +1,11 @@
+.home-card-row {
+  height: 90vh;
+}
+.vehicle-card img {
+  height: 150px;
+  padding: 12px;
+}
+
+.vehicle-card:hover {
+  cursor: pointer;
+}
